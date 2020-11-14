@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/ask/ask",
+    "pages/car/wee-cart",
+    "pages/user/user",
+    "pages/market/market",
+    "pages/community/community",
+    "pages/video/video",
+    "pages/call/call",
+    "pages/news/news",
+    "pages/detail/detail",
+    "pages/user/uni-center"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "小学同学",
+    "navigationBarBackgroundColor": "#DC143C",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#8F8F94",
+    "selectedColor": "#DC143C",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/home_icon/home.png",
+        "selectedIconPath": "static/home_icon/home_active.png"
+      },
+      {
+        "text": "资讯",
+        "pagePath": "pages/ask/ask",
+        "iconPath": "./static/home_icon/ask.png",
+        "selectedIconPath": "static/home_icon/ask_active.png"
+      },
+      {
+        "text": "购物车",
+        "pagePath": "pages/car/wee-cart",
+        "iconPath": "./static/home_icon/car.png",
+        "selectedIconPath": "./static/home_icon/car_active.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/user/user",
+        "iconPath": "./static/home_icon/user.png",
+        "selectedIconPath": "./static/home_icon/user_active.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap35.json"
+}

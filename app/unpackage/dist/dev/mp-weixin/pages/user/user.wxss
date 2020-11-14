@@ -1,0 +1,94 @@
+
+.user_item1.data-v-80842834{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 758rpx;
+	height: 150rpx;
+	margin-top: 10rpx;
+}
+.icon0.data-v-80842834{
+	width: 150rpx;
+	height: 150rpx;
+	border-radius: 50%;
+	overflow: hidden;
+}
+.font1.data-v-80842834{
+	padding-top: 25rpx;
+}
+._p.data-v-80842834{
+	padding-left: 20rpx;
+	padding-top: 20rpx;
+	color: #999999;
+	font-size: 20rpx;
+}
+button.data-v-80842834{
+	width: 300rpx;
+	height: 80rpx;
+	font-size: 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin-top: 30rpx;
+	margin-right: 10rpx;
+	border-radius: 10px;
+	border: 1px solid #fff;
+	background: #FFFFFF;
+}
+.icon1.data-v-80842834{
+	width: 100rpx;
+	height: 80rpx;
+	text-align: center;
+}
+.user_item2.data-v-80842834{
+	margin-top: 50rpx;
+	background: #FFE4C4;
+	width: 758rpx;
+	height: 80rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	border-radius: 15px;
+}
+.font2.data-v-80842834{
+	padding: 15rpx 20rpx;	
+	color: #DD524D;
+}
+.font3.data-v-80842834{
+	color: #DD524D;
+	padding-left: 350rpx;
+}
+.user_item3.data-v-80842834{
+	margin-top:20rpx;
+}
+.font4.data-v-80842834{
+	padding:5rpx 30rpx;
+	font-size: 30rpx;
+}
+.seeALL.data-v-80842834{
+	padding-left: 400rpx;
+	font-size: 30rpx;
+}
+.user_item4.data-v-80842834{
+	width: 758rpx;
+	height: 200rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.pay.data-v-80842834{
+	padding-top: 50rpx;
+}
+.icon2.data-v-80842834{
+	width: 50rpx;
+	height: 50rpx;
+	padding: 30rpx 50rpx;
+}
+.font5.data-v-80842834{
+	font-size: 30rpx;
+	color: #808080;
+	padding: 0rpx 35rpx;
+}	
+	
+
+

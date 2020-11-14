@@ -1,0 +1,1 @@
+<view class="call"><image src="../../static/call/call_logo.jpg"></image><view class="phone"><view data-event-opts="{{[['tap',[['phone',['$event']]]]]}}" bindtap="__e">联系电话：13671487174（点击拨打）</view><view>校区地址：广东省东莞市南城区广东科技学院</view></view><map class="map" scale="{{scale}}" markers="{{markers}}" longitude="{{longitude}}" latitude="{{latitude}}"></map></view>
